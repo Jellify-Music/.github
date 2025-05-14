@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome, music lover! 🎶
 
 We are a volunteer group of developers dedicated to enhancing the music experience on the Jellyfin Media Server! 🎧
 
