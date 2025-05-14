@@ -2,13 +2,16 @@
 
 We are a volunteer group of developers dedicated to enhancing the music experience on the Jellyfin Media Server! 🎧
 
-Our core product is _Jellify_, a cross-platform music player - available for iOS and Android 🪼
+## Projects
+### Active
+- _Jellify_, a cross-platform music player - available for iOS and Android 🪼 [![Latest Version](https://img.shields.io/github/package-json/version/anultravioletaurora/jellify?label=Latest%20Version&color=indigo)](https://github.com/anultravioletaurora/Jellify/releases)
 
-[![Latest Version](https://img.shields.io/github/package-json/version/anultravioletaurora/jellify?label=Latest%20Version&color=indigo)](https://github.com/anultravioletaurora/Jellify/releases)
+### Incubating
+- _Jellify-Plugin_, a Jellyfin plugin that provides sonic analysis-level features to your music using [Essentia](https://github.com/MTG/essentia)
 
 ## 🔗 Quick Links
 
-[Jellify TestFlight](https://testflight.apple.com/join/etVSc7ZQ)
+[Jellify App TestFlight](https://testflight.apple.com/join/etVSc7ZQ)
 
 [![Our Discord Server](https://dcbadge.limes.pink/api/server/https://discord.gg/yf8fBatktn)](https://discord.gg/yf8fBatktn)
 
