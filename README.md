@@ -1,2 +1,2 @@
 # .github
-An organization dedicated to enhancing the music listening experience on the Jellyfin Media Server
+An organization dedicated to the music listening experience on the Jellyfin Media Server
