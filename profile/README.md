@@ -1,4 +1,6 @@
-# Welcome, music lover! 🎶
+<p align='center'>
+  <img alt="Jellify banner image" src='https://github.com/Jellify-Music/App/blob/main/assets/transparent-banner.png' width="600" height="300" />
+</p>
 
 We are a volunteer group of developers dedicated to enhancing the music experience on the Jellyfin Media Server! 🎧
 
