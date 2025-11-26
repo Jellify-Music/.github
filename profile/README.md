@@ -13,7 +13,9 @@ We are a volunteer group of developers dedicated to enhancing the music experien
 
 ## 🔗 Quick Links
 
-[Jellify App TestFlight](https://testflight.apple.com/join/etVSc7ZQ)
+[Jellify App TestFlight (Apple)](https://testflight.apple.com/join/etVSc7ZQ)
+
+[Jellify on Play Store (Android)](https://play.google.com/store/apps/details?id=com.cosmonautical.jellify)
 
 [![Our Discord Server](https://dcbadge.limes.pink/api/server/https://discord.gg/yf8fBatktn)](https://discord.gg/yf8fBatktn)
 
