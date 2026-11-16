@@ -34,11 +34,6 @@ We're a volunteer group of developers dedicated to making listening to your own 
   <a href="https://github.com/Jellify-Music/App/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Jellify-Music/App/total?label=APK%20%26%20IPA%20Downloads" /></a>
 </p>
 
-## Incubating
-
-- **[Plugin](https://github.com/Jellify-Music/Plugin)**: a Jellyfin server plugin that brings sonic analysis to your library, powered by [Essentia](https://github.com/MTG/essentia)
-- **[SharpPrint](https://github.com/Jellify-Music/SharpPrint)**: Essentia bindings for C#, used by the plugin
-
 ## Libraries
 
 Building Jellify means building pieces that are useful on their own, so we publish them for others to use.
